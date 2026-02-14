@@ -1,6 +1,7 @@
 name: spx
 
 project_files:
-  - docker-compose.spx.yaml
+  - php/spx.ini
+  - web-build/Dockerfile.spx
 
 ddev_version_constraint: '>= v1.24.3'

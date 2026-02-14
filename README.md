@@ -7,7 +7,7 @@
 
 ## Overview
 
-This add-on integrates Spx into your [DDEV](https://ddev.com/) project.
+This add-on integrates [SPX](https://github.com/NoiseByNorthwest/php-spx) into your [DDEV](https://ddev.com/) project.
 
 ## Installation
 
@@ -39,8 +39,8 @@ Make sure to commit the `.ddev/.env.spx` file to version control.
 
 All customization options (use with caution):
 
-| Variable | Flag | Default |
-| -------- | ---- | ------- |
+| Variable           | Flag                 | Default                      |
+|--------------------|----------------------|------------------------------|
 | `SPX_DOCKER_IMAGE` | `--spx-docker-image` | `ddev/ddev-utilities:latest` |
 
 ## Credits
